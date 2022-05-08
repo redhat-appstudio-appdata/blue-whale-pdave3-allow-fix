@@ -1,0 +1,4 @@
+bases:
+- components/blue-frontend/base
+resources:
+- common-storage-pvc.yaml
